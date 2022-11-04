@@ -1,0 +1,39 @@
+*{
+	font-family: arial;
+	font-size: 20px;
+	margin: 2px;
+	background-color: black;
+	line-height: 1.5;
+	color: rgb(44, 144, 44);
+
+}
+body
+{
+	width: 300%;
+
+}
+h3
+{
+	color: darkred;
+	font-size: 35px;
+	text-align: left;
+	font-family: arial;
+}
+nav
+{
+	display: flex;
+	justify-content: safe left;
+	align-items: space-between/box;
+	background-color: darkseagreen;
+	width: 4000px;
+}
+img
+{
+	width: 400px;
+	height: 300px;
+}
+img.diverse
+{
+	width: 300px;
+	height: 500px;
+}
